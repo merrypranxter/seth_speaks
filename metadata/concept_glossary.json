@@ -1,0 +1,58 @@
+{
+  "coordinate_points": {
+    "term": "Coordinate Points",
+    "short_definition": "Spatial-temporal intersections where electromagnetic energy concentrates and reality creation is amplified.",
+    "full_definition": "Coordinate points are specific locations in physical space where the camouflage reality is 'thinner' — where inner reality presses more directly through, and where consciousness units and EE units concentrate in unusually high densities. Seth distinguishes between absolute coordinate points (rare, mathematically pure), main coordinate points (less rare), and subordinate coordinate points (common). Physical structures such as pyramids and megalithic monuments are often sited at or near these points.",
+    "first_mention": {"book": "early_sessions", "session": 156},
+    "topic_file": "topics/coordinate_points.md"
+  },
+  "consciousness_units": {
+    "term": "Consciousness Units (CUs)",
+    "short_definition": "The fundamental, indestructible units of consciousness from which all physical and non-physical reality is constructed.",
+    "full_definition": "Consciousness Units are Seth's equivalent to fundamental particles in physics — but rather than being unconscious building blocks, they are themselves aware at their own level. Every form of matter and energy is a translation of these units into physical terms. They carry holographic information about the whole system, they respond to emotional intensity and belief, and they are indestructible — they can only be transformed, never annihilated.",
+    "first_mention": {"book": "seth_speaks", "session": 511},
+    "topic_file": "topics/consciousness_units.md"
+  },
+  "probable_realities": {
+    "term": "Probable Realities",
+    "short_definition": "Simultaneously existing alternate realities arising from every decision point, each as real and valid as physical experience.",
+    "full_definition": "Seth's model holds that every moment of decision spawns probable realities — not as hypotheticals but as actual, existing reality systems. Probable selves inhabit these realities and are as conscious and as real as the self currently reading these words. All probabilities are actualized somewhere in the total reality structure; physical experience is simply one specific stream that the focused consciousness is tuned to. Communication with probable selves occurs through dreams and the deeper layers of the psyche.",
+    "first_mention": {"book": "early_sessions", "session": 104},
+    "topic_file": "topics/probable_realities.md"
+  },
+  "camouflage_reality": {
+    "term": "Camouflage Reality",
+    "short_definition": "Seth's term for the physical universe as a projection or translation of deeper inner reality, real but not primary.",
+    "full_definition": "Seth consistently uses the term 'camouflage' to describe the physical universe — not to suggest it is false or illusory, but to indicate that it is a specific, constrained translation of a more fundamental inner reality. Physical laws, space, time, and matter are the 'rules' of the camouflage system. They are real within that system but are not ultimate reality. Science accurately describes the camouflage but mistakes it for the whole.",
+    "first_mention": {"book": "early_sessions", "session": 101},
+    "topic_file": "topics/camouflage_reality.md"
+  },
+  "frameworks": {
+    "term": "Frameworks 1 & 2",
+    "short_definition": "Seth's model of reality as two interpenetrating frameworks: Framework 1 (the visible physical world) and Framework 2 (the invisible creative source).",
+    "full_definition": "Framework 1 is the arena of physical events — space, time, causality, the world as perceived through the physical senses. Framework 2 is the vast non-physical creative source from which all Framework 1 events emerge. All that appears in physical reality is first formed in Framework 2, which exists outside of physical time and contains all probable realities simultaneously. Beliefs and imagination work primarily through Framework 2 to produce Framework 1 events.",
+    "first_mention": {"book": "unknown_reality_vol2", "session": 729},
+    "topic_file": "topics/frameworks.md"
+  },
+  "ee_units": {
+    "term": "Electromagnetic Energy Units (EE Units)",
+    "short_definition": "The form consciousness units take as they approach physical materialization — the bridge between inner and outer reality.",
+    "full_definition": "EE units are what consciousness units become as they approach the threshold of physical reality. They carry electromagnetic charge, they respond to emotion and expectation, and they cluster according to the intensity of belief and desire. EE units are the immediate precursors to the particles described by physics. They flash in and out of the physical system at rates beyond current measurement.",
+    "first_mention": {"book": "early_sessions", "session": 214},
+    "topic_file": "topics/consciousness_units.md"
+  },
+  "dream_reality": {
+    "term": "Dream Reality",
+    "short_definition": "The dream state as a fully valid, coherent alternate reality system — not a lesser or illusory form of experience.",
+    "full_definition": "Seth insists that the dream state is not a shadow of waking life or a meaningless discharge of subconscious material. It is a genuine alternate reality system with its own geography, its own coherence, its own inhabitants, and its own validity. The dream body is as real to the dreamer as the physical body is to the waking self. Dreams often access probable realities, allow contact with the deceased, and provide precognitive information.",
+    "first_mention": {"book": "early_sessions", "session": 423},
+    "topic_file": "topics/dream_reality.md"
+  },
+  "reincarnation": {
+    "term": "Reincarnation System",
+    "short_definition": "Seth's model of reincarnation as simultaneous, non-linear, and driven by expansion rather than karmic debt.",
+    "full_definition": "Seth rejects the popular linear model of reincarnation in favor of a simultaneous model: all 'past' and 'future' lives exist at the same time, each in its own present. The entity (soul) organizes multiple simultaneous incarnations to maximize the range of physical experience. There is no karma as punishment or reward — only the entity's creative drive to experience and expand. The present life is not a consequence of past lives but a parallel expression of the same entity.",
+    "first_mention": {"book": "early_sessions", "session": 44},
+    "topic_file": "topics/reincarnation_system.md"
+  }
+}

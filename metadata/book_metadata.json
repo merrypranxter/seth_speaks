@@ -1,0 +1,106 @@
+{
+  "seth_speaks": {
+    "title": "Seth Speaks: The Eternal Validity of the Soul",
+    "published": 1972,
+    "session_range": {
+      "start": 511,
+      "end": 588
+    },
+    "core_themes": [
+      "multidimensional reality",
+      "reincarnation",
+      "consciousness after death",
+      "dream reality",
+      "coordinate points",
+      "consciousness units",
+      "electromagnetic energy units"
+    ],
+    "folder": "books/seth_speaks/"
+  },
+  "nature_of_personal_reality": {
+    "title": "The Nature of Personal Reality: Specific, Practical Techniques for Solving Everyday Problems and Enriching the Life You Know",
+    "published": 1974,
+    "session_range": {
+      "start": 609,
+      "end": 688
+    },
+    "core_themes": [
+      "beliefs create reality",
+      "inner landscape",
+      "healing",
+      "probable selves",
+      "conscious mind",
+      "imagination",
+      "body beliefs"
+    ],
+    "folder": "books/nature_of_personal_reality/"
+  },
+  "unknown_reality_vol1": {
+    "title": "The 'Unknown' Reality: A Seth Book, Volume 1",
+    "published": 1977,
+    "session_range": {
+      "start": 679,
+      "end": 725
+    },
+    "core_themes": [
+      "probable realities",
+      "coordinate points",
+      "multidimensional self",
+      "parallel selves",
+      "extensions of consciousness"
+    ],
+    "folder": "books/unknown_reality_vol1/"
+  },
+  "unknown_reality_vol2": {
+    "title": "The 'Unknown' Reality: A Seth Book, Volume 2",
+    "published": 1979,
+    "session_range": {
+      "start": 726,
+      "end": 744
+    },
+    "core_themes": [
+      "mass events",
+      "frameworks of existence",
+      "species consciousness",
+      "civilizations and beliefs",
+      "Framework 1 and 2"
+    ],
+    "folder": "books/unknown_reality_vol2/"
+  },
+  "early_sessions": {
+    "title": "The Early Sessions (Books 1-9)",
+    "published": "1997-2003",
+    "session_range": {
+      "start": 1,
+      "end": 510
+    },
+    "core_themes": [
+      "foundations of Seth Material",
+      "ESP experiments",
+      "initial cosmology",
+      "reincarnation framework",
+      "dream projection",
+      "coordinate points (first mentions)",
+      "EE units (first descriptions)"
+    ],
+    "folder": "books/early_sessions/"
+  },
+  "dreams_and_projection": {
+    "title": "Seth, Dreams and Projections of Consciousness",
+    "published": 1987,
+    "session_range": {
+      "start": null,
+      "end": null,
+      "note": "Drawn from multiple session sources; no single contiguous session range"
+    },
+    "core_themes": [
+      "out-of-body experience",
+      "dream reality",
+      "projection techniques",
+      "dream body",
+      "consciousness expansion",
+      "probable realities in dreams"
+    ],
+    "folder": "books/dreams_and_projection/"
+  }
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "session": 511,
+    "book": "seth_speaks",
+    "title": "The Manufacture of Physical Reality",
+    "date": "1970-01-21",
+    "topics": ["consciousness-units", "electromagnetic-energy", "reality-creation"],
+    "file": "books/seth_speaks/session_511.md"
+  },
+  {
+    "session": 512,
+    "book": "seth_speaks",
+    "title": "More on Consciousness Units",
+    "date": "1970-01-22",
+    "topics": ["consciousness-units", "ee-units", "reality-creation"],
+    "file": "books/seth_speaks/session_512.md"
+  },
+  {
+    "session": 609,
+    "book": "nature_of_personal_reality",
+    "title": "The Conscious Mind and Creativity",
+    "date": "1972-03-27",
+    "topics": ["beliefs", "conscious-mind", "creativity"],
+    "file": "books/nature_of_personal_reality/session_609.md"
+  }
+]
